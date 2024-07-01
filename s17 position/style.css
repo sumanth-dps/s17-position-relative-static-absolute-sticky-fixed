@@ -1,0 +1,123 @@
+#mainHeading{
+    background-color: rgb(37, 33, 88);
+    color: #eb0f0f;
+    position: fixed;
+    margin: 0px;
+    padding: 10px;
+    z-index:20;
+    width: 100%;
+    top :0px;
+    left:0px;
+}
+img{
+    width: 200px;
+    display: inline-block;
+}
+.prabhas{
+    position:relative;
+    right: 300px;
+    z-index:19;
+}
+.mahesh{
+    position:relative;
+    right: 410px;
+    z-index:18;
+}
+.kalyan{
+    position:relative;
+    right: 250px;
+    z-index:18;
+}
+.ntr{
+    position:relative;
+    right: 135px;
+    z-index:17;
+}
+.charan{
+    position:relative;
+    left: 910px;
+    bottom:270px;
+    z-index:16;
+}
+.arjun{
+    position:static;
+    z-index:15;
+}
+.chai{
+    position:relative;
+    left: 835px;
+    bottom:270px;
+    z-index:14;
+}
+.nani{
+    position:relative;
+    left: 100px;
+    z-index:13;
+}
+.sharwa{
+    position:relative;
+    left: 210px;
+    z-index:11;
+}
+.ram{
+    position:relative;
+    bottom:270px;
+    left: 705px;
+    z-index:12;
+}
+.logo{
+    position: sticky;
+    top :20px;
+    width: 100px;
+    left:1400px;
+    z-index:21;
+
+}
+.child{
+    height: 100px;
+    width:120px;
+    background-color: blue;
+    position: absolute;
+   right: 100px;
+}
+.parent{
+    height: 500px;
+    width:50px;
+    background-color: blue;
+    position: relative;
+   right: 100px;
+}
+.divOne{
+    position: relative;
+    width: 1400px;
+    height: 240px;
+}  
+.divTwo{
+    position: absolute;
+    top: 0px;
+    margin: 0%;
+    left: 100px;
+    width: 200px;
+    height: 60px;
+}
+.prabhasImage{
+    width: 60px;
+}
+.divThree{
+    position: relative;
+    width: 1400px;
+    height: 240px;
+}  
+.divFour{
+    position: absolute;
+    top: 0px;
+    margin: 0%;
+    left: 150px;
+    width: 200px;
+    height: 60px;
+}
+.pawanImage{
+    width: 60px;
+}
+ 
+  
